@@ -4,7 +4,7 @@ This script performs a series of database operations to synchronize two sets of 
 
 ## Installation
 
-Clone and change into the repository using `git clone TODO`, `cd correctIngvNode`. Make sure you have Python (this project was built for version 3.11.4, but older should still work) installed and pip as well.
+Clone and change into the repository using `git clone https://github.com/DuarteArribas/correctIngvNode`, `cd correctIngvNode`. Make sure you have Python (this project was built for version 3.11.4, but older should still work) installed and pip as well.
 
 Install the requirements in requirements.txt using `pip install -r requirements.txt`.
 
